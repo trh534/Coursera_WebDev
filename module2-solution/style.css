@@ -2,6 +2,12 @@
 	box-sizing: border-box;
 }
 
+p {
+	border: 1px solid black;
+	background-color: #A52A2A;
+	height: 150px;
+}
+
 .row {
 	width: 100%;
 }
